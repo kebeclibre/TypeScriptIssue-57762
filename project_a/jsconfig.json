@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "baseUrl": "./",
+        "target": "ES2022",
+        "noEmit": true,
+        "disableSizeLimit": true,
+        "paths": {
+            "@feature1/*": ["feature1/*"],
+        }
+    },
+    "include": ["**/*.js", "**/*.ts"],
+    "exclude": [
+        "node_modules",
+    ]
+}

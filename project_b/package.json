@@ -1,0 +1,8 @@
+{
+    "name": "odoo-js-config",
+    "version": "1.0.0",
+    "description": "JS Config for better DX in javascript",
+    "devDependencies": {
+        "@odoo/owl": "^2.0.1"
+    }
+}
