@@ -1,1 +1,1 @@
-import { MyComponent } from "@feature1/f1";
+// import { MyComponent } from "@feature1/f1";
