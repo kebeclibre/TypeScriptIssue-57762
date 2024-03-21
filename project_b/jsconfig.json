@@ -11,7 +11,7 @@
             "@feature2/*": ["./feature2/*"]
         }
     },
-    "include": ["**/*.js", "**/*.ts"],
+    "include": ["**/*.js", "**/*.ts", "../project_a/**/*.js"],
     "exclude": [
         "node_modules",
     ]
